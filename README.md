@@ -1,6 +1,6 @@
-gama-academy---javascript-basico
+### gama-academy---javascript-basico
 
-### Aula de JavaScript Básica Gama Academy
+Aula de JavaScript Básica Gama Academy
 
 Código para verificação, ajudar a fixar o aprendizado e poder auxiliar outros alunos do curso Gama Academy.
 
