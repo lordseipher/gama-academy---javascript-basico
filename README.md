@@ -1,6 +1,6 @@
 gama-academy---javascript-basico
 
-Aula de JavaScript Básica Gama Academy
+### Aula de JavaScript Básica Gama Academy
 
 Código para verificação, ajudar a fixar o aprendizado e poder auxiliar outros alunos do curso Gama Academy.
 
@@ -14,7 +14,7 @@ Para rodar os script1, script2, script3 alterar a linha <script src="script1.js"
 
 
 
-gama-academy---javascript-basic
+### gama-academy---javascript-basic
 
 Gama Academy Basic JavaScript Class
 
